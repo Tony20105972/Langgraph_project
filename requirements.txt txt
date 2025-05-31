@@ -1,6 +1,0 @@
-flask
-langgraph
-langchain
-openai
-python-dotenv
-gunicorn
